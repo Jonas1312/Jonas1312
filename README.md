@@ -85,9 +85,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Jonas1312/pytorch-segmentation-dataset">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=pytorch-segmentation-dataset&theme=graywhite" />
   </a>
-  <a href="https://github.com/Jonas1312/migrate-arxiv-sanity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=migrate-arxiv-sanity&theme=graywhite" />
-  </a>
 </p>
 
 ## School Projects
