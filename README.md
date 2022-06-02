@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 # 📂 My Repositories
 
-## Machine Learning Articles
+## Machine Learning & Maths Articles
 
 <p align="middle">
   <a href="https://github.com/Jonas1312/mse-for-binary-classification">
@@ -40,6 +40,12 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/Jonas1312/dilation-rate-as-fibonacci-sequence">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=dilation-rate-as-fibonacci-sequence&theme=graywhite" />
+  </a>
+</p>
+
+<p align="middle">
+  <a href="https://github.com/Jonas1312/how-not-to-sample-points-in-circle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=how-not-to-sample-points-in-circle&theme=graywhite" />
   </a>
 </p>
 
