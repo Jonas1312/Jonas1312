@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋</h1>
-<h3 align="center">Engineer in Machine Learning, Computer Vision, Data Science</h3>
+<h3 align="center">👨‍💻 Engineer in Machine Learning, Computer Vision, Data Science</h3>
 
 ## &#x1f4c8; GitHub Stats
 
