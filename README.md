@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Data Science Challenges
+## Solutions to Data Science Challenges
 
 <p align="middle">
   <a href="https://github.com/Jonas1312/ChallengeMKea">
