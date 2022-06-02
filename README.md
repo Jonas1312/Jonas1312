@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 # 📂 My Repositories
 
-## Machine Learning
+## Machine Learning Explanations
 
 <p align="middle">
   <a href="https://github.com/Jonas1312/mse-for-binary-classification">
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Data Science
+## Data Science Articles
 
 <p align="middle">
   <a href="https://github.com/Jonas1312/cities-with-nice-weather">
