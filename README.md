@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="middle">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonas1312&theme=default" style="width: 60%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonas1312&theme=default" style="width: 29%"/>
-</p>
+<table>
+  <tr>
+    <td valign="top"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonas1312&theme=default"></td>
+    <td valign="top"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonas1312&theme=default"></td>
+  </tr>
+ </table>
 
 ## 🔧 Technologies & Tools
 
