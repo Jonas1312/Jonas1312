@@ -47,6 +47,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/Jonas1312/how-not-to-sample-points-in-circle">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=how-not-to-sample-points-in-circle&theme=graywhite" />
   </a>
+  <a href="https://github.com/Jonas1312/dice-coefficient-scale-sensitivity-pitfall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=dice-coefficient-scale-sensitivity-pitfall&theme=graywhite" />
+  </a>
 </p>
 
 ## Data Science Articles
