@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 # 📂 My Repositories
 
-## Machine Learning & Maths Articles
+## Machine Learning, Maths, and Computer Science Articles
 
 <p align="middle">
   <a href="https://github.com/Jonas1312/mse-for-binary-classification">
@@ -49,6 +49,12 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/Jonas1312/dice-coefficient-scale-sensitivity-pitfall">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=dice-coefficient-scale-sensitivity-pitfall&theme=graywhite" />
+  </a>
+</p>
+
+<p align="middle">
+  <a href="https://github.com/Jonas1312/matrix-matrix-multiplication-optimization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas1312&repo=matrix-matrix-multiplication-optimization&theme=graywhite" />
   </a>
 </p>
 
