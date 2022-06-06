@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td valign="top"><a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonas1312&theme=default"></a></td>
-    <td valign="top"><a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonas1312&theme=default"></a></td>
+    <td valign="top"><a href="https://github.com/Jonas1312#-github-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonas1312&theme=default"></a></td>
+    <td valign="top"><a href="https://github.com/Jonas1312#-github-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonas1312&theme=default"></a></td>
   </tr>
  </table>
 
 ## 🔧 Technologies & Tools
 
-<a href="#">![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)</a>
+<a href="https://github.com/Jonas1312#-technologies--tools">![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)</a>
 
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas1312&hide=jupyter%20notebook&layout=compact&theme=graywhite&custom_title=Most%20Used%20Languages%20On%20GitHub)</a>
+<a href="https://github.com/Jonas1312#-technologies--tools">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas1312&hide=jupyter%20notebook&layout=compact&theme=graywhite&custom_title=Most%20Used%20Languages%20On%20GitHub)</a>
 
 # 📂 My Repositories
 
